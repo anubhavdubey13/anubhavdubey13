@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anubhav @anubhavdubey13
-- 👀 I’m interested in Data Science + Crypto + Cyber Security.
+- 👀 I’m interested in Data Science + Crypto and I do suffer from Shiny Object Syndrome but it lasts less than 72 hours.
 - 🌱 Learning lots of stuff.
 - 📫 How to reach me: LinkedIn - in/anubhavdubey13 OR Twitter - illusionanubhav OR drop a mail at anubhav.dubey.stats@gmail.com
 
